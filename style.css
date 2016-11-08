@@ -59,6 +59,9 @@ body {
 .icon--github {
   background-image: url(img/icons/github.png);
 }
+.icon--cv {
+  background-image: url(img/icons/cv.png);
+}
 .decorative {
   width: 490px;
   height: 850px;
